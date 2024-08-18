@@ -35,7 +35,6 @@ Explore the live version of the Psilocybin Medicine Webpage [here](https://inqua
    git clone https://github.com/yourusername/psilocybin-medicine-webpage.git
 2. Navigate to the project directory:
    ```bash
-    Copy code
     cd psilocybin-medicine-webpage
 3. Open index.html in your preferred web browser to view the webpage.
 
