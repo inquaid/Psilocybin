@@ -32,7 +32,7 @@ Explore the live version of the Psilocybin Medicine Webpage [here](https://inqua
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/psilocybin-medicine-webpage.git
+   git clone https://github.com/inquaid/psilocybin-medicine-webpage.git
 2. Navigate to the project directory:
    ```bash
     cd psilocybin-medicine-webpage
